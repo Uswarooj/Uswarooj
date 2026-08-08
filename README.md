@@ -441,7 +441,7 @@ Proprietary business logic
 Private customer information
 
 Instead, this profile documents the engineering domains, technologies, capabilities, and project types I have worked with.
-
+```
 <div align="center">
 CYBERSECURITY × AI × AUTOMATION
 Building intelligent systems.
