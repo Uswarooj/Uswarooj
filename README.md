@@ -55,54 +55,88 @@ I focus on turning complex and repetitive processes into workflows that are:
 
 # CORE EXPERTISE
 
+<div align="center">
+
 <table>
 <tr>
-<td width="33%" valign="top">
 
-### SECURITY ENGINEERING
+<td align="center" width="33%">
 
-- Security Research
-- Security Automation
-- Web Application Security
-- Vulnerability Assessment
-- Network Security
-- Security Testing
-- Secure SDLC
-- AI Security
+<h3>SECURITY ENGINEERING</h3>
 
-</td>
-<td width="33%" valign="top">
+<img src="https://skillicons.dev/icons?i=kali,linux" height="42">
 
-### AI & AUTOMATION
+<br><br>
 
-- AI Agents
-- AI Automation
-- Intelligent Workflows
-- Research Automation
-- LLM Workflows
-- Business Automation
-- API Automation
-- Data Processing
+<img src="https://img.shields.io/badge/Security%20Research-111827?style=for-the-badge&logo=hackthebox&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Security%20Automation-111827?style=for-the-badge&logo=probot&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Web%20Security-111827?style=for-the-badge&logo=owasp&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Vulnerability%20Assessment-111827?style=for-the-badge&logo=securityscorecard&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Network%20Security-111827?style=for-the-badge&logo=cisco&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/AI%20Security-111827?style=for-the-badge&logo=openai&logoColor=white">
 
 </td>
-<td width="33%" valign="top">
 
-### INTELLIGENCE
+<td align="center" width="33%">
 
-- OSINT
-- Threat Intelligence
-- Web Research
-- Information Gathering
-- Public Data Processing
-- Search Automation
-- Lead Intelligence
-- Data Extraction
+<h3>AI & AUTOMATION</h3>
+
+<img src="https://skillicons.dev/icons?i=python,typescript" height="42">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge&logo=probot&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/AI%20Automation-111827?style=for-the-badge&logo=openai&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Intelligent%20Workflows-111827?style=for-the-badge&logo=workflow&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Research%20Automation-111827?style=for-the-badge&logo=googlescholar&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/LLM%20Workflows-111827?style=for-the-badge&logo=ai&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/API%20Automation-111827?style=for-the-badge&logo=fastapi&logoColor=white">
 
 </td>
+
+<td align="center" width="33%">
+
+<h3>INTELLIGENCE</h3>
+
+<img src="https://skillicons.dev/icons?i=python" height="42">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/OSINT-111827?style=for-the-badge&logo=linux&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Threat%20Intelligence-111827?style=for-the-badge&logo=virustotal&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Web%20Research-111827?style=for-the-badge&logo=google&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Information%20Gathering-111827?style=for-the-badge&logo=datadog&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Search%20Automation-111827?style=for-the-badge&logo=google&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Data%20Extraction-111827?style=for-the-badge&logo=python&logoColor=white">
+
+</td>
+
 </tr>
 </table>
 
----
+<br>
+
+<img src="https://img.shields.io/badge/CYBERSECURITY-0B0F14?style=for-the-badge&logoColor=C8A96B">
+<img src="https://img.shields.io/badge/AI%20AUTOMATION-0B0F14?style=for-the-badge&logoColor=C8A96B">
+<img src="https://img.shields.io/badge/OSINT-0B0F14?style=for-the-badge&logoColor=C8A96B">
+<img src="https://img.shields.io/badge/SECURITY%20RESEARCH-0B0F14?style=for-the-badge&logoColor=C8A96B">
+
+</div>
 
 # SELECTED ENGINEERING WORK
 
