@@ -106,17 +106,23 @@ I focus on turning complex and repetitive processes into workflows that are:
 
 # SELECTED ENGINEERING WORK
 
-> Professional and company-owned systems are represented at a high level. Proprietary source code, credentials, internal infrastructure, and confidential business information remain private.
+> Selected systems and automation work across cybersecurity, AI, OSINT, search intelligence, and modern application engineering.  
+> Professional and company-owned systems are presented at a high level to protect proprietary source code and internal infrastructure.
+
+<br>
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-## Agency Intelligence Copilot
+<sub>01 · AI AUTOMATION</sub>
 
-AI-assisted system for agency operations, customer workflows, and repetitive business processes.
+### Agency Intelligence Copilot
 
-**Focus**
+AI-assisted system designed to support agency operations, customer workflows, and repetitive business processes.
+
+**Built around**
 
 `TypeScript` `AI` `Automation`
 
@@ -124,94 +130,126 @@ AI-assisted system for agency operations, customer workflows, and repetitive bus
 
 <td width="50%" valign="top">
 
-## Intelligent Search Platform
+<sub>02 · SEARCH INTELLIGENCE</sub>
 
-Search-oriented system for information discovery, automated processing, and intelligent workflows.
+### Intelligent Search Platform
 
-**Focus**
+Search-oriented system focused on information discovery, automated processing, and intelligent workflows.
+
+**Built around**
 
 `TypeScript` `Search` `Data Processing`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-## Search & Discovery Engine
+<sub>03 · INFORMATION SYSTEMS</sub>
 
-Information-processing workflow designed around automated search and operational data processing.
+### Search & Discovery Engine
 
-**Focus**
+Automated information-discovery workflow designed to process search results and transform data into structured information.
 
-`TypeScript` `Search Systems` `Automation`
+**Built around**
+
+`TypeScript` `Search` `Automation`
 
 </td>
 
 <td width="50%" valign="top">
 
-## Speaker Intelligence Pipeline
+<sub>04 · OSINT AUTOMATION</sub>
 
-Python automation for researching publicly available speaker, event, and professional information.
+### Speaker Intelligence Pipeline
 
-**Focus**
+Python-based automation for researching publicly available speaker, event, and professional information.
 
-`Python` `OSINT` `Web Research`
+**Built around**
+
+`Python` `OSINT` `Web Research` `Data Extraction`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-## Professional Intelligence Mapper
+<sub>05 · PROFESSIONAL INTELLIGENCE</sub>
 
-Automation workflow for discovering and organizing publicly available professional information.
+### Profile Intelligence System
 
-**Focus**
+Automation workflow for discovering, processing, and organizing publicly available professional information.
 
-`Python` `OSINT` `Automation`
+**Built around**
+
+`Python` `OSINT` `Automation` `Data Processing`
 
 </td>
 
 <td width="50%" valign="top">
 
-## Social Intelligence Pipeline
+<sub>06 · LEAD INTELLIGENCE</sub>
 
-Public-data workflow for discovering relevant social content and processing engagement information.
+### Social Intelligence Pipeline
 
-**Focus**
+Public-data workflow for discovering relevant social content and processing engagement information for lead research.
 
-`Python` `Web Scraping` `OSINT`
+**Built around**
+
+`Python` `Web Scraping` `OSINT` `Lead Intelligence`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-## Healthcare Operations Platform
+<sub>07 · WEB ENGINEERING</sub>
 
-Modern web application developed within a healthcare and business-oriented environment.
+### Business Web Application
 
-**Focus**
+Modern web application developed within a business-oriented environment with frontend, backend, API, and application workflows.
 
-`JavaScript` `Web Application` `APIs`
+**Built around**
+
+`JavaScript` `Web Application` `APIs` `Frontend` `Backend`
 
 </td>
 
 <td width="50%" valign="top">
 
-## Engineering Direction
+<sub>08 · ENGINEERING SYSTEMS</sub>
 
-Building at the intersection of:
+### Automation & Research Tooling
 
-**Cybersecurity × Artificial Intelligence × Automation**
+A broader collection of Python utilities, research workflows, automation systems, data-processing pipelines, and security-oriented tooling.
+
+**Built around**
+
+`Python` `Automation` `OSINT` `Security`
 
 </td>
+
 </tr>
 </table>
 
+<br>
+
+<div align="center">
+
+**ENGINEERING THEMES**
+
+`CYBERSECURITY` &nbsp; `AI` &nbsp; `AUTOMATION` &nbsp; `OSINT` &nbsp; `INTELLIGENCE` &nbsp; `SOFTWARE`
+
+</div>
 ---
 
 # CYBERSECURITY
