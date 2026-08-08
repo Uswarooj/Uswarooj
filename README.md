@@ -2,44 +2,58 @@
 
 # USWA AROOJ
 
-### CYBER SECURITY ENGINEER · AI AUTOMATION ENGINEER
+### CYBER SECURITY ENGINEER | AI AUTOMATION ENGINEER
 
-`SECURITY` · `AI AUTOMATION` · `OSINT` · `SECURITY RESEARCH`
+<p>
+  <strong>Security Engineering</strong>
+  &nbsp;•&nbsp;
+  <strong>AI Automation</strong>
+  &nbsp;•&nbsp;
+  <strong>OSINT</strong>
+  &nbsp;•&nbsp;
+  <strong>Security Research</strong>
+</p>
 
-<br>
+<p>
+  <a href="https://github.com/Uswarooj">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/ruthlesseagle">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+  </a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-0B0D10-C8A96B?style=for-the-badge&logo=github&logoColor=C8A96B)](https://github.com/Uswarooj)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B0D10-C8A96B?style=for-the-badge&logo=linkedin&logoColor=C8A96B)](https://www.linkedin.com/in/ruthlesseagle)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="100%">
 
 </div>
 
----
-
-<div align="center">
-
-### SECURITY + AI + AUTOMATION
-
-`Cybersecurity` `Artificial Intelligence` `Automation` `OSINT` `Python`
-
-</div>
-
----
-
-# 01 · PROFILE
+# PROFILE
 
 ## Engineering with security in mind.
 
-I am a **Cyber Security Engineer and AI Automation Engineer** focused on building practical systems across cybersecurity, artificial intelligence, automation, OSINT, and modern software engineering.
+I am a **Cyber Security Engineer and AI Automation Engineer** focused on practical systems across **cybersecurity, artificial intelligence, automation, OSINT, and modern software engineering**.
 
-My work includes **security research, security automation, Python tooling, OSINT systems, web scraping, AI-assisted workflows, intelligent search systems, business automation, web applications, APIs, and SaaS systems**.
+My work includes:
 
-I focus on transforming complex and repetitive processes into systems that are:
+- Security research
+- Security automation
+- Python tooling
+- OSINT systems
+- Web scraping
+- AI-assisted workflows
+- Intelligent search systems
+- Business automation
+- Web applications
+- APIs
+- SaaS systems
 
-> **AUTOMATED · INTELLIGENT · RELIABLE · SECURITY-CONSCIOUS**
+I focus on turning complex and repetitive processes into workflows that are:
+
+**Automated · Intelligent · Reliable · Security-Conscious**
 
 ---
 
-# 02 · EXPERTISE
+# CORE EXPERTISE
 
 <table>
 <tr>
@@ -57,7 +71,6 @@ I focus on transforming complex and repetitive processes into systems that are:
 - AI Security
 
 </td>
-
 <td width="33%" valign="top">
 
 ### AI & AUTOMATION
@@ -72,7 +85,6 @@ I focus on transforming complex and repetitive processes into systems that are:
 - Data Processing
 
 </td>
-
 <td width="33%" valign="top">
 
 ### INTELLIGENCE
@@ -81,7 +93,7 @@ I focus on transforming complex and repetitive processes into systems that are:
 - Threat Intelligence
 - Web Research
 - Information Gathering
-- Public Data Collection
+- Public Data Processing
 - Search Automation
 - Lead Intelligence
 - Data Extraction
@@ -92,7 +104,7 @@ I focus on transforming complex and repetitive processes into systems that are:
 
 ---
 
-# 03 · SELECTED ENGINEERING WORK
+# SELECTED ENGINEERING WORK
 
 > Professional and company-owned systems are represented at a high level. Proprietary source code, credentials, internal infrastructure, and confidential business information remain private.
 
@@ -100,9 +112,9 @@ I focus on transforming complex and repetitive processes into systems that are:
 <tr>
 <td width="50%" valign="top">
 
-### 01 · Agency Intelligence Copilot
+## Agency Intelligence Copilot
 
-AI-assisted system designed around agency operations, customer workflows, and business process automation.
+AI-assisted system for agency operations, customer workflows, and repetitive business processes.
 
 **Focus**
 
@@ -112,9 +124,9 @@ AI-assisted system designed around agency operations, customer workflows, and bu
 
 <td width="50%" valign="top">
 
-### 02 · Intelligent Search Platform
+## Intelligent Search Platform
 
-Search-oriented system focused on information discovery, processing, and automated workflows.
+Search-oriented system for information discovery, automated processing, and intelligent workflows.
 
 **Focus**
 
@@ -126,9 +138,9 @@ Search-oriented system focused on information discovery, processing, and automat
 <tr>
 <td width="50%" valign="top">
 
-### 03 · Search & Discovery Engine
+## Search & Discovery Engine
 
-Information-processing workflow built around automated search and structured information discovery.
+Information-processing workflow designed around automated search and operational data processing.
 
 **Focus**
 
@@ -138,9 +150,9 @@ Information-processing workflow built around automated search and structured inf
 
 <td width="50%" valign="top">
 
-### 04 · Speaker Intelligence Pipeline
+## Speaker Intelligence Pipeline
 
-Python-based OSINT automation for researching publicly available speaker, event, and professional information.
+Python automation for researching publicly available speaker, event, and professional information.
 
 **Focus**
 
@@ -152,7 +164,7 @@ Python-based OSINT automation for researching publicly available speaker, event,
 <tr>
 <td width="50%" valign="top">
 
-### 05 · Professional Intelligence Mapper
+## Professional Intelligence Mapper
 
 Automation workflow for discovering and organizing publicly available professional information.
 
@@ -164,9 +176,9 @@ Automation workflow for discovering and organizing publicly available profession
 
 <td width="50%" valign="top">
 
-### 06 · Social Intelligence Pipeline
+## Social Intelligence Pipeline
 
-Public-data workflow for discovering relevant social content and processing publicly available engagement information.
+Public-data workflow for discovering relevant social content and processing engagement information.
 
 **Focus**
 
@@ -178,9 +190,9 @@ Public-data workflow for discovering relevant social content and processing publ
 <tr>
 <td width="50%" valign="top">
 
-### 07 · Healthcare Operations Platform
+## Healthcare Operations Platform
 
-Modern web application developed within a business/healthcare-oriented environment.
+Modern web application developed within a healthcare and business-oriented environment.
 
 **Focus**
 
@@ -190,11 +202,11 @@ Modern web application developed within a business/healthcare-oriented environme
 
 <td width="50%" valign="top">
 
-### ENGINEERING DIRECTION
+## Engineering Direction
 
-Cybersecurity × Artificial Intelligence × Automation
+Building at the intersection of:
 
-**Building systems that automate intelligently and securely.**
+**Cybersecurity × Artificial Intelligence × Automation**
 
 </td>
 </tr>
@@ -202,158 +214,116 @@ Cybersecurity × Artificial Intelligence × Automation
 
 ---
 
-# 04 · CYBERSECURITY
+# CYBERSECURITY
 
 ## Security Domains
 
-`Web Application Security`
+<p>
+<img src="https://img.shields.io/badge/Web_Application_Security-111827?style=flat-square" alt="Web Application Security">
+<img src="https://img.shields.io/badge/Vulnerability_Assessment-111827?style=flat-square" alt="Vulnerability Assessment">
+<img src="https://img.shields.io/badge/Security_Research-111827?style=flat-square" alt="Security Research">
+<img src="https://img.shields.io/badge/Security_Automation-111827?style=flat-square" alt="Security Automation">
+<img src="https://img.shields.io/badge/Network_Security-111827?style=flat-square" alt="Network Security">
+<img src="https://img.shields.io/badge/OSINT-111827?style=flat-square" alt="OSINT">
+<img src="https://img.shields.io/badge/Threat_Intelligence-111827?style=flat-square" alt="Threat Intelligence">
+<img src="https://img.shields.io/badge/Incident_Response-111827?style=flat-square" alt="Incident Response">
+<img src="https://img.shields.io/badge/Digital_Forensics-111827?style=flat-square" alt="Digital Forensics">
+<img src="https://img.shields.io/badge/AI_Security-111827?style=flat-square" alt="AI Security">
+<img src="https://img.shields.io/badge/DevSecOps-111827?style=flat-square" alt="DevSecOps">
+<img src="https://img.shields.io/badge/Secure_SDLC-111827?style=flat-square" alt="Secure SDLC">
+</p>
 
-`Vulnerability Assessment`
+## Security Tooling
 
-`Security Research`
-
-`Security Automation`
-
-`Network Security`
-
-`OSINT`
-
-`Threat Intelligence`
-
-`Incident Response`
-
-`Digital Forensics`
-
-`AI Security`
-
-`DevSecOps`
-
-`Secure SDLC`
-
-### Security Tooling
-
-[![Kali](https://img.shields.io/badge/Kali_Linux-0B0D10-C8A96B?style=flat-square&logo=kalilinux&logoColor=C8A96B)](#)
-[![Nmap](https://img.shields.io/badge/Nmap-0B0D10-C8A96B?style=flat-square)](#)
-[![Burp](https://img.shields.io/badge/Burp_Suite-0B0D10-C8A96B?style=flat-square)](#)
-[![Wireshark](https://img.shields.io/badge/Wireshark-0B0D10-C8A96B?style=flat-square&logo=wireshark&logoColor=C8A96B)](#)
-[![Metasploit](https://img.shields.io/badge/Metasploit-0B0D10-C8A96B?style=flat-square)](#)
-[![OWASP](https://img.shields.io/badge/OWASP_ZAP-0B0D10-C8A96B?style=flat-square&logo=owasp&logoColor=C8A96B)](#)
-[![OpenVAS](https://img.shields.io/badge/OpenVAS-0B0D10-C8A96B?style=flat-square)](#)
-[![Snort](https://img.shields.io/badge/Snort-0B0D10-C8A96B?style=flat-square)](#)
+<p>
+<img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux">
+<img src="https://img.shields.io/badge/Kali_Linux-111827?style=for-the-badge&logo=kalilinux&logoColor=557C94" height="45" alt="Kali Linux">
+<img src="https://img.shields.io/badge/Nmap-111827?style=for-the-badge&logoColor=white" height="45" alt="Nmap">
+<img src="https://img.shields.io/badge/Burp_Suite-111827?style=for-the-badge&logoColor=FF6633" height="45" alt="Burp Suite">
+<img src="https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark&logoColor=1679A7" height="45" alt="Wireshark">
+<img src="https://img.shields.io/badge/Metasploit-111827?style=for-the-badge&logoColor=white" height="45" alt="Metasploit">
+<img src="https://img.shields.io/badge/OWASP_ZAP-111827?style=for-the-badge&logo=owasp&logoColor=white" height="45" alt="OWASP ZAP">
+<img src="https://img.shields.io/badge/OpenVAS-111827?style=for-the-badge" height="45" alt="OpenVAS">
+<img src="https://img.shields.io/badge/Snort-111827?style=for-the-badge" height="45" alt="Snort">
+</p>
 
 ---
 
-# 05 · AI & AUTOMATION
+# AI & AUTOMATION
 
 ## AI Systems
 
-`AI Agents`
+<p>
+<img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge" alt="AI Agents">
+<img src="https://img.shields.io/badge/AI_Automation-111827?style=for-the-badge" alt="AI Automation">
+<img src="https://img.shields.io/badge/LLM_Workflows-111827?style=for-the-badge" alt="LLM Workflows">
+<img src="https://img.shields.io/badge/Prompt_Engineering-111827?style=for-the-badge" alt="Prompt Engineering">
+<img src="https://img.shields.io/badge/Multi--Agent_Research-111827?style=for-the-badge" alt="Multi-Agent Research">
+</p>
 
-`AI Automation`
+## Automation
 
-`AI-assisted Workflows`
-
-`Multi-Agent Research`
-
-`Prompt Engineering`
-
-`LLM Workflows`
-
-`Research Automation`
-
-`Business Process Automation`
-
-## Intelligent Engineering
-
-`API-driven Automation`
-
-`Data Processing`
-
-`Intelligent Search`
-
-`Workflow Orchestration`
-
-`Security Automation`
-
-`AI-assisted Security Research`
+<p>
+<img src="https://img.shields.io/badge/Research_Automation-111827?style=for-the-badge" alt="Research Automation">
+<img src="https://img.shields.io/badge/Business_Automation-111827?style=for-the-badge" alt="Business Automation">
+<img src="https://img.shields.io/badge/API_Automation-111827?style=for-the-badge" alt="API Automation">
+<img src="https://img.shields.io/badge/Data_Processing-111827?style=for-the-badge" alt="Data Processing">
+<img src="https://img.shields.io/badge/Intelligent_Search-111827?style=for-the-badge" alt="Intelligent Search">
+<img src="https://img.shields.io/badge/Workflow_Orchestration-111827?style=for-the-badge" alt="Workflow Orchestration">
+</p>
 
 ---
 
-# 06 · TECHNICAL STACK
+# TECHNICAL STACK
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
 ### PROGRAMMING
 
-`Python`
-
-`TypeScript`
-
-`JavaScript`
-
-`SQL`
-
-`HTML`
-
-`CSS`
-
-</td>
-
-<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" alt="Programming stack">
 
 ### WEB & BACKEND
 
-`React`
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" alt="Web and backend stack">
 
-`Node.js`
+### DEVELOPMENT
 
-`Express.js`
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,windows" alt="Development stack">
 
-`MongoDB`
+</div>
 
-`REST APIs`
+<br>
 
-`Vercel`
+<table>
+<tr>
+<td width="50%">
+
+**Programming**
+
+`Python` · `TypeScript` · `JavaScript` · `SQL` · `HTML` · `CSS`
+
+</td>
+<td width="50%">
+
+**Web & Backend**
+
+`React` · `Node.js` · `Express.js` · `MongoDB` · `REST APIs` · `Vercel`
 
 </td>
 </tr>
-
 <tr>
-<td width="50%" valign="top">
+<td>
 
-### ENGINEERING
+**Development**
 
-`Git`
-
-`GitHub`
-
-`VS Code`
-
-`Postman`
-
-`Linux`
-
-`Windows`
+`Git` · `GitHub` · `VS Code` · `Postman`
 
 </td>
+<td>
 
-<td width="50%" valign="top">
+**Platforms**
 
-### ENGINEERING FOCUS
-
-`Security`
-
-`Automation`
-
-`AI`
-
-`OSINT`
-
-`Research`
-
-`Systems`
+`Linux` · `Windows`
 
 </td>
 </tr>
@@ -361,55 +331,41 @@ Cybersecurity × Artificial Intelligence × Automation
 
 ---
 
-# 07 · PROFESSIONAL TRAJECTORY
+# PROFESSIONAL EXPERIENCE
 
-### CURRENT
+## Cyber Security Engineer | AI Automation Engineer
 
-## Cyber Security Engineer · AI Automation Engineer
+**Current**
 
-Working across cybersecurity, security research, AI automation, automation systems, and practical engineering workflows.
-
-- Security research and security automation
-- AI-powered workflows
-- Python scripting and automation
-- OSINT and information gathering
-- Web scraping and data processing
-- Security-focused application testing
-- System architecture
-- Troubleshooting
-- Technical documentation
+Working across security research, security automation, AI-powered workflows, Python scripting, OSINT, web scraping, testing, system architecture, troubleshooting, and technical documentation.
 
 ---
-
-### LEADERSHIP
 
 ## Technical Team Lead
 
+**Leadership**
+
 Technical coordination across development workflows, testing, automation, and project delivery.
 
-`TEAM LEADERSHIP` · `PROJECT COORDINATION` · `TESTING` · `AUTOMATION`
-
 ---
-
-### EDUCATION
 
 ## Coding & AI Instructor
 
-Teaching programming and AI concepts through practical, project-based technical learning.
+**Education**
 
-`PYTHON` · `PROGRAMMING` · `AI` · `TECHNICAL COMMUNICATION`
+Teaching programming and AI concepts through practical, project-based learning.
 
 ---
-
-### DESIGN
 
 ## Junior Pitch Deck Designer
 
-Professional pitch deck and presentation design combining visual communication, business storytelling, and technical presentation.
+**Design**
+
+Pitch deck and presentation design combining visual communication, business storytelling, and technical presentation.
 
 ---
 
-# 08 · ENGINEERING PRINCIPLES
+# ENGINEERING PRINCIPLES
 
 <table>
 <tr>
@@ -449,24 +405,29 @@ Build systems that can be maintained.
 
 ---
 
-# 09 · CURRENT DIRECTION
+# CURRENT DIRECTION
+
+<div align="center">
 
 ```text
-                    CYBERSECURITY
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-          ▼              ▼              ▼
- SECURITY AUTOMATION   AI SECURITY   DETECTION ENGINEERING
-          │              │              │
-          └──────────────┼──────────────┘
-                         │
-                         ▼
-                   CLOUD SECURITY
-                         │
-                         ▼
-                     AI AGENTS
-10 · PROFESSIONAL WORK & PRIVACY
+CYBERSECURITY
+      │
+      ▼
+SECURITY AUTOMATION
+      │
+      ▼
+AI SECURITY
+      │
+      ▼
+DETECTION ENGINEERING
+      │
+      ▼
+CLOUD SECURITY
+      │
+      ▼
+AI AGENTS
+</div>
+PROFESSIONAL WORK & PRIVACY
 
 Some of my strongest engineering work is private/company-owned.
 
@@ -486,10 +447,10 @@ CYBERSECURITY × AI × AUTOMATION
 Building intelligent systems.
 Automating workflows.
 Securing technology.
-<br>
+<br> <a href="https://github.com/Uswarooj"> <img src="https://img.shields.io/badge/EXPLORE_GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"> </a> <a href="https://www.linkedin.com/in/ruthlesseagle"> <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="Connect on LinkedIn"> </a>
 
-<br>
+<br><br>
 
-SECURITY · AUTOMATION · INTELLIGENCE · ENGINEERING
+<sub>SECURITY · AUTOMATION · INTELLIGENCE · ENGINEERING</sub>
 
 </div>
