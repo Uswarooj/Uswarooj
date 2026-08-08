@@ -1,234 +1,383 @@
 <div align="center">
 
-# 👋 Hi, I'm Uswa Arooj
+# USWA AROOJ
 
-### Cyber Security Engineer · AI Automation Engineer · Security Research
+### CYBER SECURITY ENGINEER | AI AUTOMATION ENGINEER
 
-Building practical security, automation, and AI-powered solutions.
+`SECURITY` · `AI` · `AUTOMATION` · `OSINT` · `PYTHON`
+
+<p>
+  <a href="https://github.com/Uswarooj">
+    <img src="https://img.shields.io/badge/GitHub-Profile-050505?style=for-the-badge&logo=github&logoColor=00ff88" />
+  </a>
+  <a href="https://www.linkedin.com/in/ruthlesseagle">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-050505?style=for-the-badge&logo=linkedin&logoColor=00ff88" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🧭 About Me
+## WHOAMI
 
-I’m a Cyber Security Engineer and AI Automation Engineer focused on building practical systems that combine cybersecurity, artificial intelligence, automation, and modern software technologies.
+```text
+$ whoami
 
-My work includes developing AI-assisted workflows, automation systems, OSINT and web-scraping solutions, search and data-processing systems, Python utilities, and security-focused applications.
+Uswa Arooj
+Cyber Security Engineer
+AI Automation Engineer
+Security Researcher
 
-I enjoy taking repetitive or complex processes and turning them into reliable, intelligent workflows.
+I build practical systems at the intersection of cybersecurity, artificial intelligence, automation, and software engineering.
 
-### What I bring
+My work includes security research, OSINT, Python automation, web scraping, AI-assisted workflows, intelligent search systems, business automation, security-focused applications, and modern web technologies.
 
-- 🔐 Cybersecurity & security-focused engineering
-- 🤖 AI automation and AI-assisted workflows
-- 🐍 Python scripting and automation
-- 🔎 OSINT and information gathering
-- ⚙️ Web scraping and data-processing automation
-- 🧠 AI agents and intelligent workflows
-- 🌐 Modern web applications and SaaS systems
-- 🧪 Testing, troubleshooting, and system improvement
-- 👥 Technical coordination and project leadership
+I focus on turning complex and repetitive processes into systems that are more automated, intelligent, reliable, and secure.
 
----
+ENGINEERING FOCUS
+DOMAIN	FOCUS
+Cybersecurity	Security Engineering, Web Security, Security Research
+Security Automation	Python Automation, Security Tooling, Automated Workflows
+AI Automation	AI Agents, AI Workflows, Intelligent Automation
+OSINT	Information Gathering, Research Automation, Intelligence
+Engineering	Web Applications, APIs, SaaS Systems
+Leadership	Team Coordination, Testing, Project Management
+WHAT I BUILD
+SECURITY ENGINEERING
+Security automation
+Web application security
+Vulnerability assessment
+Security research
+Network security
+Security tooling
+OSINT
+Threat intelligence
+Secure SDLC
+AI-assisted security workflows
+AI & AUTOMATION
+AI agents
+AI-powered workflows
+Business process automation
+Research automation
+Intelligent information processing
+LLM-powered internal tools
+API-driven automation
+Multi-agent workflows
+INTELLIGENCE & OSINT
+OSINT research
+Web intelligence
+Public-data collection
+Professional profile research
+Speaker intelligence
+Lead intelligence
+Search automation
+Data extraction and processing
+SELECTED WORK
 
-## 🚀 What I Build
+Some of my professional projects are private and company-owned. This section represents my engineering experience without exposing proprietary source code, credentials, internal infrastructure, or confidential business information.
 
-**Cybersecurity**
-- Security Automation
-- OSINT
-- Security Research
-- Security Tooling
+AI & BUSINESS AUTOMATION
+CSR Agent
 
-**AI & Automation**
-- AI Agents
-- Intelligent Workflows
-- Business Automation
-- AI-assisted Systems
+AI-assisted customer support and agency workflow automation system.
 
-**Engineering**
-- Python Automation
-- TypeScript / JavaScript
-- Web Applications
-- Data Processing
-- SaaS Systems
+Focus
 
----
+AI Automation TypeScript AI Workflows Business Automation
 
-## 💼 Professional Focus
+Britesearch
 
-### Cyber Security Engineering
+Search-oriented system focused on information discovery and automated processing.
 
-I work on security-oriented research, automation, tooling, and practical security workflows while continuously expanding my knowledge across security concepts.
+Focus
 
-### AI Automation Engineering
+TypeScript Search Systems Data Processing Automation
 
-I build AI-assisted systems that automate repetitive workflows, process information, connect different services, and turn manual processes into intelligent workflows.
+Searchbrite
 
-### Security + AI
+Search and information-processing workflow focused on improving information discovery and operational efficiency.
 
-My long-term focus is at the intersection of:
+Focus
 
-**Cybersecurity × Artificial Intelligence × Automation**
+TypeScript Search Automation Data Processing
 
----
+OSINT & INTELLIGENCE
+OSINT Speaker Harvester
 
-## 🧩 Selected Work
+Python-based automation for researching publicly available information related to speakers, events, and professional profiles.
 
-> Some of my professional projects are private/company-owned. This section describes the type of systems I have worked on without exposing proprietary source code, credentials, architecture, or confidential business information.
+Focus
 
-### 🤖 AI Agency / Customer Support Copilot
+Python OSINT Web Research Data Extraction Automation
 
-Worked on an AI-assisted system designed to support agency workflows and automate operational tasks.
+Speakers LinkedIn Generator
 
-**Focus:** AI automation · intelligent workflows · TypeScript · business automation
+Automation system that takes web-search information and produces structured speaker and publicly available professional-profile information.
 
-### 🔎 Search Intelligence Systems
+Focus
 
-Worked on search-oriented systems focused on information discovery, processing, and workflow automation.
+Python Web Search OSINT Automation Data Processing
 
-**Focus:** TypeScript · search workflows · data processing · automation
+Instagram Leads Generator
 
-### 🕵️ OSINT Speaker Research Automation
+Public-data intelligence workflow for discovering posts through hashtags and processing publicly available engagement information for lead intelligence.
 
-Built Python-based automation for researching publicly available information and organizing relevant speaker and professional data.
+Focus
 
-**Focus:** Python · OSINT · web research · data extraction · automation
+Web Scraping OSINT Automation Lead Intelligence
 
-### 💼 Professional Profile Intelligence
+WEB & SAAS
+Medspa
 
-Worked on automation for discovering and organizing publicly available professional information for research and business workflows.
+Modern web application developed in a healthcare/business context.
 
-**Focus:** automation · web research · data processing
+Focus
 
-### 📈 Social Lead Intelligence
+JavaScript Web Application APIs Frontend Backend
 
-Built automation workflows for discovering public social content and processing publicly available engagement information to identify potential business opportunities.
+Web & SaaS Systems
 
-**Focus:** automation · web scraping · data processing · lead intelligence
+Experience working with modern application systems involving:
 
-### 🌐 Web & SaaS Applications
+Frontend development
+Backend services
+REST APIs
+Databases
+Authentication workflows
+Deployment
+Testing
+Automation
+Multi-user system considerations
 
-Contributed to modern web-based applications and SaaS-oriented systems involving frontend, backend, APIs, databases, deployment, testing, and automation.
+Technologies
 
-**Focus:** JavaScript · TypeScript · React · Node.js · MongoDB · APIs · Vercel
+React Node.js MongoDB JavaScript TypeScript REST APIs Vercel
 
----
+CYBERSECURITY
 
-## 🛠️ Technical Stack
+My cybersecurity work focuses on practical security engineering, research, automation, and hands-on experimentation.
 
-### Programming
+SECURITY DOMAINS
 
-`Python` `TypeScript` `JavaScript` `SQL` `HTML` `CSS`
+Web Application Security
 
-### Cybersecurity
+OWASP API Security Vulnerability Assessment Security Testing
 
-`OSINT` `Security Research` `Web Security` `Network Security` `Linux` `Windows` `OWASP`
+Network Security
 
-### AI & Automation
+Network Analysis Traffic Inspection Reconnaissance Security Monitoring
 
-`AI Automation` `AI Agents` `Prompt Engineering` `LLM Workflows` `Python Automation` `Workflow Automation`
+Intelligence
 
-### Web & Backend
+OSINT Threat Intelligence Information Gathering Research Automation
 
-`React` `Node.js` `MongoDB` `REST APIs` `Vercel`
+Security Automation
 
-### Security & Research Tools
+Python Security Scripts Data Processing AI-assisted Workflows
 
-`Kali Linux` `Nmap` `Wireshark` `Burp Suite` `Metasploit` `OWASP ZAP` `OpenVAS` `Snort` `Aircrack-ng`
+SECURITY AREAS
 
-### Development & Productivity
+Security Engineering
+Web Application Security
+OSINT
+Threat Intelligence
+Vulnerability Assessment
+Security Automation
+Network Security
+Incident Response
+Digital Forensics
+AI Security
+DevSecOps
+Secure SDLC
 
-`Git` `GitHub` `VS Code` `Postman` `Linux` `Windows`
+SECURITY TOOLING
 
----
+Kali Linux
+Nmap
+Burp Suite
+Wireshark
+Metasploit
+OWASP ZAP
+OpenVAS
+Snort
+Aircrack-ng
+Sysinternals
+Postman
 
-## 🔐 Cybersecurity Interests
+AI & AUTOMATION
 
-- Security Automation
-- Security Engineering
-- OSINT
-- Threat Intelligence
-- Vulnerability Management
-- SOC & Detection
-- Incident Response
-- Web Application Security
-- Network Security
-- Digital Forensics
-- AI Security
-- DevSecOps
+I use AI as an engineering capability for workflow automation, research, information processing, and intelligent systems.
 
----
+AREAS
 
-## 🤖 AI & Automation Interests
+AI Agents
+AI Automation
+AI-assisted Workflows
+Multi-Agent Research
+Prompt Engineering
+LLM Workflows
+Research Automation
+Business Process Automation
+API-driven Automation
+Intelligent Search
 
-- AI Agents
-- AI-powered automation
-- Security automation
-- Intelligent data processing
-- Research automation
-- Workflow orchestration
-- AI-assisted cybersecurity
-- LLM-powered internal tools
-- API-based automation
+AI + SECURITY
 
----
+Security Automation
+Security Research Assistance
+Intelligence Processing
+AI Security Workflows
 
-## 📚 Continuous Learning
+TECHNOLOGY STACK
+PROGRAMMING
+<p> <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" /> </p>
 
-I continuously improve my skills through:
+Python TypeScript JavaScript SQL HTML CSS
 
-- Cybersecurity labs
-- Security research
-- Python projects
-- AI automation experiments
-- OSINT research
-- System architecture
-- Cloud and security technologies
-- Practical hands-on projects
+WEB & BACKEND
+<p> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,vercel" /> </p>
 
----
+React Node.js Express.js MongoDB REST APIs Vercel
 
-## 🎯 Current Direction
+DEVELOPMENT
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" /> </p>
 
-I’m building toward a career focused on:
+Git GitHub VS Code Postman Linux Windows
 
-**Cybersecurity Engineering + AI Automation + Security Engineering**
+PROFESSIONAL EXPERIENCE
+CYBER SECURITY ENGINEER | AI AUTOMATION ENGINEER
 
-My goal is to create systems that don't just automate tasks, but automate them **intelligently and securely**.
+Working across cybersecurity, AI automation, security research, automation, and practical engineering systems.
 
----
+Key Areas
+Security research
+Security automation
+AI-powered workflows
+Python scripting
+OSINT research
+Web scraping
+Information processing
+Automation pipelines
+Security-focused application testing
+Troubleshooting and system improvement
+System architecture
+Technical documentation
+TEAM LEAD — CODEALPHA
 
-## 📌 Portfolio Principles
+Worked in a technical leadership capacity coordinating development teams and project workflows.
 
-For professional and company work:
+Focus
 
-- 🔒 Confidential source code stays private
-- 🔒 Credentials and secrets are never published
-- 🔒 Internal company architecture is not exposed
-- 📚 Public repositories focus on learning, research, tooling, and documented projects
-- 🧪 Projects are documented with security and reproducibility in mind
+Team Leadership
+Project Coordination
+Testing
+Automation
+Technical Management
 
----
+CODING & AI INSTRUCTOR — CODINGAL
 
-## 🌱 What I'm Exploring Next
+Worked with students on programming and AI concepts while supporting practical technical learning and platform workflows.
 
-**Advanced Security Automation → AI Security → Detection Engineering → Cloud Security → AI Agents → Security Engineering at Scale**
+Focus
 
----
+Python
+Programming
+AI
+Technical Communication
+Instruction
 
-## 🤝 Let's Connect
+JUNIOR PITCH DECK DESIGNER
 
-I'm interested in cybersecurity, AI automation, security research, and interesting technical problems.
+Worked on professional pitch decks and presentation design, combining visual communication, business storytelling, and technical presentation.
 
-**Open to:** Cybersecurity · Security Automation · AI Automation · Security Engineering · AI Security
+ENGINEERING PRINCIPLES
+01  SECURITY FIRST
+    Build systems with security in mind.
 
----
+02  AUTOMATE REPETITIVE WORK
+    Turn reliable repetitive processes into automation.
 
+03  BUILD PRACTICAL SYSTEMS
+    Technology should solve real problems.
+
+04  PROTECT CONFIDENTIAL WORK
+    Private company code and infrastructure remain private.
+
+05  KEEP LEARNING
+    Cybersecurity and AI evolve continuously.
+
+06  DOCUMENT WHAT MATTERS
+    Good engineering should be understandable and maintainable.
+CURRENT LEARNING
+Security Automation
+        |
+        v
+AI Security
+        |
+        v
+Detection Engineering
+        |
+        v
+Cloud Security
+        |
+        v
+AI Agents
+        |
+        v
+Security Engineering at Scale
+
+Current areas of exploration:
+
+Advanced Security Automation
+AI Security
+Detection Engineering
+Cloud Security
+AI Agents
+Secure AI Systems
+DevSecOps
+Security Architecture
+
+PROFESSIONAL PROJECT POLICY
+
+Some systems I work on are private/company-owned.
+
+PUBLIC
+|
++-- Personal Projects
++-- Security Research
++-- Learning Projects
++-- Public Tooling
++-- Portfolio Documentation
+
+PRIVATE
+|
++-- Company Source Code
++-- Credentials
++-- Internal Infrastructure
++-- Proprietary Architecture
++-- Confidential Business Logic
+
+This portfolio demonstrates engineering capability without exposing confidential company work.
+
+CURRENT MISSION
+$ cat mission.txt
+
+Build secure systems.
+Automate intelligently.
+Research continuously.
+Learn relentlessly.
+
+My professional direction is centered around:
+
+Cybersecurity + Artificial Intelligence + Automation
+
+with a focus on building useful, secure, and scalable systems.
+
+CONNECT
+<div align="center"> <a href="https://github.com/Uswarooj"> <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00ff88"/> </a> <a href="https://www.linkedin.com/in/ruthlesseagle"> <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00ff88"/> </a> </div>
 <div align="center">
+[ SECURITY ] [ AI ] [ AUTOMATION ] [ INTELLIGENCE ]
 
-### 🔐 Secure Systems · 🤖 Intelligent Automation · 🧠 Continuous Learning
-
-**Building. Automating. Securing. Learning.**
-
+BUILD  |  AUTOMATE  |  SECURE  |  LEARN
 </div>
