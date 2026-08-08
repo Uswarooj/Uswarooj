@@ -280,54 +280,101 @@ Building at the intersection of:
 
 ### PROGRAMMING
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" alt="Programming stack">
-
-### WEB & BACKEND
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" alt="Web and backend stack">
-
-### DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,windows" alt="Development stack">
-
-</div>
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" width="42" alt="Python">
+</a>
+&nbsp;
+<a href="https://www.typescriptlang.org/">
+<img src="https://skillicons.dev/icons?i=typescript" width="42" alt="TypeScript">
+</a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=javascript" width="42" alt="JavaScript">
+</a>
+&nbsp;
+<a href="https://www.w3.org/html/">
+<img src="https://skillicons.dev/icons?i=html" width="42" alt="HTML">
+</a>
+&nbsp;
+<a href="https://www.w3.org/Style/CSS/">
+<img src="https://skillicons.dev/icons?i=css" width="42" alt="CSS">
+</a>
 
 <br>
 
-<table>
-<tr>
-<td width="50%">
+<code>Python</code>
+&nbsp; <code>TypeScript</code>
+&nbsp; <code>JavaScript</code>
+&nbsp; <code>HTML</code>
+&nbsp; <code>CSS</code>
 
-**Programming**
+---
 
-`Python` · `TypeScript` · `JavaScript` · `SQL` · `HTML` · `CSS`
+### WEB & BACKEND
 
-</td>
-<td width="50%">
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" width="42" alt="React">
+</a>
+&nbsp;
+<a href="https://nodejs.org/">
+<img src="https://skillicons.dev/icons?i=nodejs" width="42" alt="Node.js">
+</a>
+&nbsp;
+<a href="https://expressjs.com/">
+<img src="https://skillicons.dev/icons?i=express" width="42" alt="Express.js">
+</a>
+&nbsp;
+<a href="https://www.mongodb.com/">
+<img src="https://skillicons.dev/icons?i=mongodb" width="42" alt="MongoDB">
+</a>
 
-**Web & Backend**
+<br>
 
-`React` · `Node.js` · `Express.js` · `MongoDB` · `REST APIs` · `Vercel`
+<code>React</code>
+&nbsp; <code>Node.js</code>
+&nbsp; <code>Express.js</code>
+&nbsp; <code>MongoDB</code>
+&nbsp; <code>REST APIs</code>
+&nbsp; <code>Vercel</code>
 
-</td>
-</tr>
-<tr>
-<td>
+---
 
-**Development**
+### DEVELOPMENT & TOOLS
 
-`Git` · `GitHub` · `VS Code` · `Postman`
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" width="42" alt="Git">
+</a>
+&nbsp;
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub">
+</a>
+&nbsp;
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" width="42" alt="VS Code">
+</a>
+&nbsp;
+<a href="https://www.postman.com/">
+<img src="https://skillicons.dev/icons?i=postman" width="42" alt="Postman">
+</a>
+&nbsp;
+<a href="https://www.linux.org/">
+<img src="https://skillicons.dev/icons?i=linux" width="42" alt="Linux">
+</a>
+&nbsp;
+<a href="https://www.microsoft.com/windows">
+<img src="https://skillicons.dev/icons?i=windows" width="42" alt="Windows">
+</a>
 
-</td>
-<td>
+<br>
 
-**Platforms**
+<code>Git</code>
+&nbsp; <code>GitHub</code>
+&nbsp; <code>VS Code</code>
+&nbsp; <code>Postman</code>
+&nbsp; <code>Linux</code>
+&nbsp; <code>Windows</code>
 
-`Linux` · `Windows`
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
