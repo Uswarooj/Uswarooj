@@ -388,23 +388,6 @@ Build systems that can be maintained.
 
 <div align="center">
 
-## CONNECT
-
-<br>
-
-<a href="https://github.com/Uswarooj">
-<img src="https://img.shields.io/badge/GitHub-Uswarooj-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF">
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/ruthless-eagle">
-<img src="https://img.shields.io/badge/LinkedIn-Uswa_Arooj-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
-</a>
-&nbsp;
-<a href="mailto:uswaarooj1411@gmail.com">
-<img src="https://img.shields.io/badge/Email-uswaarooj1411%40gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335">
-</a>
-
-<br><br>
 
 Cybersecurity · AI Automation · Security Research · Intelligent Systems
 
