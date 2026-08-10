@@ -216,11 +216,7 @@ Modern web application work involving frontend, backend, APIs, data handling, te
 
 </div>
 
-<div align="center">
 
-`JavaScript` `React` `Node.js` `MongoDB` `APIs` `Vercel`
-
-</div>
 
 </td>
 
