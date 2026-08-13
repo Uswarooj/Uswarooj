@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/ruthless-eagle">
+<a href=www.linkedin.com/in/ruthlesseagle">
 <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
 </a>
 &nbsp;
